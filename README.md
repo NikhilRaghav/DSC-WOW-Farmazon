@@ -9,4 +9,8 @@ Features:
 
 3)Customers can directly buy authentic goods from farmer without no middlemen involved.
 
-It is done as a project for DSC - WOW Code OFF Duty - 1 Hackathon held during 11th DEC,2020 to 13th DEC,2020 12:30pm
+It is done as a project for DSC - WOW Code OFF Duty - 1 Hackathon held during 11th DEC,2020 to 13th DEC,2020 12:30pm .
+
+Link to the web app : https://farmazon-nikhil-dscwow-hackathon.anvil.app/
+
+
